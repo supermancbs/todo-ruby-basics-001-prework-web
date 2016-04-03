@@ -27,5 +27,4 @@ end
 
 def pizza_party(string="cheese")
     return string
-
 end
